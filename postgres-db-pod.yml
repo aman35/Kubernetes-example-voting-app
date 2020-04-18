@@ -1,9 +1,9 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: posgres-db-pod
+  name: postgres-db-pod
   labels:
-    name: posgres-db-pod
+    name: postgres-db-pod
     app: example-voting-app
 spec:
   containers:
