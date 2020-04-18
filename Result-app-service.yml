@@ -4,7 +4,7 @@ metadata:
   name: result-app-service
   labels:
     name: result-app-service
-    app: example-voting-app
+    app: demo-voting-app
 spec:
   ports:
     - targetPort: 80
