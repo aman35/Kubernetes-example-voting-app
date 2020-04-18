@@ -11,5 +11,5 @@ spec:
       port: 5432
   selector:
     name: postgres-db-pod
-    app: example-voting-app
+    app: demo-voting-app
   type: ClusterIP
